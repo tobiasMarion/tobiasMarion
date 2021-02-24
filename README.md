@@ -16,7 +16,3 @@ Me chamo Tobias Cadoná Marion e adoro transformar ideias em projetos!
 #### Estou Estudando 📚
 * React
 * Node.js
-
-#### Tenho Interesse 🚀
-* Next.js
-* Electron
