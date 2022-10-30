@@ -12,7 +12,5 @@ Me chamo Tobias Cadoná Marion e adoro transformar ideias em projetos!
 * HTML
 * CSS
 * JavaScript
-
-#### 📚 Estou Estudando
-* React
-* Node.js
+* Python
+* Node.JS
