@@ -13,4 +13,3 @@ Me chamo Tobias Cadoná Marion e adoro transformar ideias em projetos!
 * CSS
 * JavaScript
 * Python
-* Node.JS
