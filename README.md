@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Tobias Cadoná Marion!
+# 👋 Hello, I'm Tobias!
 
 I'm a Computer Science student at INF-UFRGS 🎓, passionate about merging creativity with technology. 
 
